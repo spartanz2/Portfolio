@@ -6,7 +6,7 @@ import {
   FaLinkedin,
   FaEnvelope,
 } from "react-icons/fa";
-import "./protfolio.css";
+import "./index.css";
 
 function Protfolio() {
   const homeRef = useRef(null);
